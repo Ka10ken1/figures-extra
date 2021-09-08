@@ -1,8 +1,8 @@
 # Figures. Extra Challenge
 
-Given a class `Point`, an abstract class `Figure`, skeletons of classes `Triangle`, `Quadrilateral`, `Circle`, implement the following.
+Given: class `Point`, an abstract class `Figure` and skeletons of classes `Triangle`, `Quadrilateral`, `Circle`.
 
-Make `Triangle`, `Quadrilateral`, `Circle` extend `Figure` class.
+Make `Triangle`, `Quadrilateral`, `Circle` extend a `Figure` class.
 
 Implement methods in `Triangle`, `Quadrilateral`, `Circle`:
 
